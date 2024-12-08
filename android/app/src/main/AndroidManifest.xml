@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.stringartgenerator">
+
+    <application
+        android:label="string_art_generator"
+        android:icon="@mipmap/ic_launcher">
+        <activity
+            android:name="io.flutter.embedding.android.FlutterActivity"
+            android:exported="true"
+            android:theme="@style/LaunchTheme">
+        </activity>
+    </application>
+</manifest>
